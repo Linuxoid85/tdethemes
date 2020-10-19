@@ -1,0 +1,27 @@
+[Color Scheme]
+Name=White Plastik
+activeBackground=255,255,255
+activeBlend=255,255,255
+activeForeground=0,0,0
+activeTitleBtnBg=127,158,200
+alternateBackground=255,255,255
+background=255,255,255
+buttonBackground=237,239,245
+buttonForeground=48,48,48
+contrast=0
+foreground=48,48,48
+frame=255,255,255
+handle=255,255,255
+inactiveBackground=255,255,255
+inactiveBlend=255,255,255
+inactiveForeground=255,255,255
+inactiveFrame=255,255,255
+inactiveHandle=255,255,255
+inactiveTitleBtnBg=167,181,199
+linkColor=0,0,238
+selectBackground=213,213,213
+selectForeground=48,48,48
+shadeSortColumn=false
+visitedLinkColor=82,24,139
+windowBackground=255,255,255
+windowForeground=48,48,48
