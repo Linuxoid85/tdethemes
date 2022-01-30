@@ -1,0 +1,27 @@
+[Color Scheme]
+Name=Ubuntu 8.04 (Hardy Heron)
+activeBackground=200,130,58
+activeBlend=232,170,106
+activeForeground=255,255,255
+activeTitleBtnBg=239,235,231
+alternateBackground=238,246,255
+background=239,235,231
+buttonBackground=239,235,231
+buttonForeground=0,0,0
+contrast=7
+foreground=16,16,16
+frame=239,239,239
+handle=239,239,239
+inactiveBackground=238,233,229
+inactiveBlend=248,246,243
+inactiveForeground=60,60,59
+inactiveFrame=239,239,239
+inactiveHandle=239,239,239
+inactiveTitleBtnBg=239,235,231
+linkColor=0,0,238
+selectBackground=255,215,153
+selectForeground=0,0,0
+shadeSortColumn=true
+visitedLinkColor=82,24,139
+windowBackground=255,255,255
+windowForeground=0,0,0
